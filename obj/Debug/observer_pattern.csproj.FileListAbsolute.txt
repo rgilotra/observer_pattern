@@ -1,0 +1,7 @@
+D:\study\projects\github\observer_pattern\bin\Debug\observer_pattern.exe.config
+D:\study\projects\github\observer_pattern\bin\Debug\observer_pattern.exe
+D:\study\projects\github\observer_pattern\bin\Debug\observer_pattern.pdb
+D:\study\projects\github\observer_pattern\obj\Debug\observer_pattern.csprojAssemblyReference.cache
+D:\study\projects\github\observer_pattern\obj\Debug\observer_pattern.csproj.CoreCompileInputs.cache
+D:\study\projects\github\observer_pattern\obj\Debug\observer_pattern.exe
+D:\study\projects\github\observer_pattern\obj\Debug\observer_pattern.pdb
